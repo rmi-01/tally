@@ -1,9 +1,4 @@
-import {
-  CheckIcon,
-  CloseIcon,
-  InfoIcon,
-  InfoOutlineIcon,
-} from "@chakra-ui/icons";
+import { CheckIcon, CloseIcon, InfoOutlineIcon } from "@chakra-ui/icons";
 import { Box, Text } from "@chakra-ui/react";
 
 interface ToastProps {
