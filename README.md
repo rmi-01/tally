@@ -26,4 +26,4 @@ This is a simple counter app built with React (TypeScript) and Chakra UI. It use
 
 ## Deployed Link
 
-https://tally-react-typescript.vercel.app/
+https://tally-ecru.vercel.app/
